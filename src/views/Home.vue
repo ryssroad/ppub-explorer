@@ -15,10 +15,7 @@
     <p class="mb-1">
       🛠 hard work hard fork 🛠
     </p>
-    <h2 class="mb-3">
-      🚀
-    </h2>
-
+    
     <div>
       <b-row class="match-height">
         <b-col
