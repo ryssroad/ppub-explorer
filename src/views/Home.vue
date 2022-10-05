@@ -13,9 +13,9 @@
     </b-link>
 
     <p class="mb-1">
-      🛠 hard work hard fork 🛠
+      👾 hard work hard fork 👽
     </p>
-    
+
     <div>
       <b-row class="match-height">
         <b-col
