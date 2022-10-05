@@ -22,20 +22,20 @@ function processMenu() {
       icon: 'https://ping.pub/logo.svg',
     })
   }
-  // chainMenus.push({ header: 'LINKS' })
-  // if (isTestnet()) {
-  //   chainMenus.push({
-  //     title: 'Mainnet Explorer',
-  //     href: 'https://ping.pub',
-  //     icon: 'ChromeIcon',
-  //   })
-  // } else {
-  //   chainMenus.push({
-  //     title: 'Testnet Explorer',
-  //     href: 'http://testnet.ping.pub',
-  //     icon: 'LifeBuoyIcon',
-  //   })
-  // }
+  chainMenus.push({ header: 'LINKS' })
+  if (isTestnet()) {
+    chainMenus.push({
+      title: 'Mainnet Explorer',
+      href: 'https://mains.systemd.run',
+      icon: 'ChromeIcon',
+    })
+  } else {
+    chainMenus.push({
+      title: 'Testnet Explorer',
+      href: 'http://tst.systemd.run',
+      icon: 'LifeBuoyIcon',
+    })
+  }
   chainMenus.push({
     title: 'Github',
     href: 'https://github.com/systemd-run',
