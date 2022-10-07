@@ -1,18 +1,12 @@
 <template>
   <p class="clearfix mb-0">
     <span class="float-md-center d-none d-md-block d-md-inline-block mt-25">
-      powered by 
-      <b-link
-        class="ml-25 font-weight-bolder"
-        href="https://ping.pub/"
-        target="_blank"
-      >ping.pub</b-link>
-      | modified by
+      modified by
       <b-link
         class="ml-25 font-weight-bolder"
         href="#"
         target="_blank"
-      >roadz 👽</b-link>
+      >roadz</b-link>
     </span>
   </p>
 </template>
