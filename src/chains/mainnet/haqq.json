@@ -2,7 +2,7 @@
     "chain_name": "haqq",
     "coingecko": "",
     "api": ["https://haqq-api.systemd.run"],
-    "rpc": ["https://haqq-rpc.systemd.run:36657"],
+    "rpc": ["https://haqq-rpc.systemd.run"],
     "snapshot_provider": "",
     "sdk_version": "0.45.3",
     "coin_type": "60",
