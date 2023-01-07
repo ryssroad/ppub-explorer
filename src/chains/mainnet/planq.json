@@ -1,0 +1,16 @@
+{
+    "chain_name": "planq",
+    "api": ["https://planq-api.creeptah.xyz"],
+    "rpc": ["https://planq-rpc.creeptah.xyz"],
+    "sdk_version": "0.46.3",
+    "coin_type": "118",
+    "min_tx_fee": "300",
+    "assets": [{
+        "base": "aplanq",
+        "symbol": "PLANQ",
+        "exponent": "18",
+        "logo": "/logos/planq.png"
+    }],
+    "addr_prefix": "plq",
+    "logo": "/logos/planq.png"
+}
