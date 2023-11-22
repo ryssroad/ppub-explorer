@@ -1,7 +1,7 @@
 {
     "chain_name": "Cascadia",
     "coingecko": "",
-    "api": ["https://testnet-cascadia-api.genznodes.dev","https://api.cascadia-t.indonode.net"],
+    "api": ["https://cscd-api.systemd.run","https://testnet-cascadia-api.genznodes.dev","https://api.cascadia-t.indonode.net"],
     "rpc": ["https://cscd-rpc.systemd.run","https://testnet-cascadia-rpc.genznodes.dev"],
     "snapshot_provider": "",
     "sdk_version": "v0.46.10",
